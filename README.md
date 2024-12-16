@@ -85,25 +85,6 @@ $ cd distance-measurement
 2. Calculates the distance based on the speed of sound in air.
 3. Outputs the distance in both meters and inches to the Serial Monitor.
 
----
-
-## 🤖 Acronym-Based Interactive User Name
-
-This project is maintained by **D.E.V.E.L.O.P.E.R**:
-- **D**edicated
-- **E**ngineer
-- **V**isionary
-- **E**nthusiast
-- **L**ogician
-- **O**ptimizer
-- **P**assionate
-- **E**xplorer
-- **R**esourceful
-
-Feel free to reach out for collaborations or suggestions!
-
----
-
 ## 🤝 Contribution Guidelines
 
 We welcome contributions to enhance this project! Follow these steps to contribute:
@@ -118,16 +99,4 @@ We welcome contributions to enhance this project! Follow these steps to contribu
 ## 📝 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## 📧 Contact
-
-For any queries or feedback, feel free to reach out:
-- **Email:** your-email@example.com
-- **GitHub:** [@your-username](https://github.com/your-username)
-
----
-
-### ⭐ If you like this project, consider giving it a star! ⭐
 

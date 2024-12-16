@@ -39,7 +39,7 @@ $ git clone https://github.com/<your-username>/distance-measurement.git
 $ cd distance-measurement
 ```
 
-### Running the Python Program
+### - Running the Python Program
 
 1. **Install Dependencies:**
    ```bash
@@ -58,7 +58,7 @@ $ cd distance-measurement
 4. **Stop the Program:**
    - Press `q` to quit.
 
-### Running the Arduino Program
+### - Running the Arduino Program
 
 1. **Hardware Setup:**
    - Connect the **HC-SR04 Ultrasonic Sensor** to your Arduino as per the wiring diagram provided.
@@ -75,12 +75,12 @@ $ cd distance-measurement
 
 ## 📚 Detailed Explanation
 
-### Python Program Workflow
+### - Python Program Workflow
 1. Captures video feed from your webcam.
 2. Detects an object using contours and calculates its perceived width.
 3. Computes the distance based on the object’s real width and camera focal length.
 
-### Arduino Program Workflow
+### - Arduino Program Workflow
 1. Sends ultrasonic pulses to measure the distance to the object.
 2. Calculates the distance based on the speed of sound in air.
 3. Outputs the distance in both meters and inches to the Serial Monitor.
